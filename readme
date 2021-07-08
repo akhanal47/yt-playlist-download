@@ -1,0 +1,9 @@
+Before running the script:
+
+install requirements 
+python -m pip install -r requirements.txt
+
+To Download in MP4 audio format:
+Paste the youtube playlist link or any link of the video on the playlist to initiate download.
+
+
